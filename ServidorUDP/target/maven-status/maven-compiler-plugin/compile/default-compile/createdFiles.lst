@@ -1,0 +1,6 @@
+com\mycompany\servidorudp\ServidorUDP.class
+py\una\bd\Bd.class
+py\una\bd\TestPersonaDAO.class
+py\una\bd\PersonaDAO.class
+py\una\entidad\PersonaJSON.class
+py\una\entidad\Persona.class
