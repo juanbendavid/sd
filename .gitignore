@@ -255,5 +255,5 @@ nbdist/
 .ionide
 
 # End of https://www.toptal.com/developers/gitignore/api/java,maven,intellij,visualstudiocode,netbeans,eclipse
-ServidorUDP/target/*
-ClienteUDP/target/*
+ServidorUDP/target/
+ClienteUDP/target/

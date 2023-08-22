@@ -1,7 +1,6 @@
 package py.una.bd;
 
 import java.sql.SQLException;
-import java.util.Iterator;
 import java.util.List;
 
 import py.una.entidad.Persona;

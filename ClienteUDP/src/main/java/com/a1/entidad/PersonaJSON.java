@@ -4,7 +4,6 @@ import java.util.Iterator;
 import org.json.simple.JSONArray;
 import org.json.simple.JSONObject;
 import org.json.simple.parser.JSONParser;
-import org.json.simple.parser.ParseException;
 
 public class PersonaJSON {
 
@@ -37,7 +36,7 @@ public class PersonaJSON {
     }
     
     public static String objetoString(Persona p) {	
-    	
+
 		JSONObject obj = new JSONObject();
         obj.put("cedula", p.getCedula());
         obj.put("nombre", p.getNombre());
